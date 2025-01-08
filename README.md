@@ -1,5 +1,5 @@
 # VBA Scripting Challenge
-Rutgers Bootcamp Challenge 2 - VBA
+Challenge 2 - VBA
 
 ## Description
 Prompt: Use VBAscripting to analyze generated stock market data. 
